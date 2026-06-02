@@ -1,0 +1,11 @@
+Model Information:
+* title:	Russian infantry PK gunner
+* source:	https://sketchfab.com/3d-models/russian-infantry-pk-gunner-da02504587944be59e8dc9fa9f7330f7
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Russian infantry PK gunner" (https://sketchfab.com/3d-models/russian-infantry-pk-gunner-da02504587944be59e8dc9fa9f7330f7) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

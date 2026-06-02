@@ -1,0 +1,11 @@
+Model Information:
+* title:	Russian Mil Mi-35M
+* source:	https://sketchfab.com/3d-models/russian-mil-mi-35m-cf353814ef14488599336f752b85d5d4
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Russian Mil Mi-35M" (https://sketchfab.com/3d-models/russian-mil-mi-35m-cf353814ef14488599336f752b85d5d4) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

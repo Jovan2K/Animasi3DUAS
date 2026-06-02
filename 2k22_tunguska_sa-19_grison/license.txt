@@ -1,0 +1,11 @@
+Model Information:
+* title:	2K22 Tunguska (SA-19 Grison)
+* source:	https://sketchfab.com/3d-models/2k22-tunguska-sa-19-grison-5b0e7e5855a849d48e2913a6b0b5f103
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2K22 Tunguska (SA-19 Grison)" (https://sketchfab.com/3d-models/2k22-tunguska-sa-19-grison-5b0e7e5855a849d48e2913a6b0b5f103) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
