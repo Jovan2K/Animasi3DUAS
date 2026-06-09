@@ -1,0 +1,11 @@
+Model Information:
+* title:	j type hanger
+* source:	https://sketchfab.com/3d-models/j-type-hanger-d86713d61b4941378a6ad21569e0cbac
+* author:	ElectricLeo (https://sketchfab.com/ElectricLeo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "j type hanger" (https://sketchfab.com/3d-models/j-type-hanger-d86713d61b4941378a6ad21569e0cbac) by ElectricLeo (https://sketchfab.com/ElectricLeo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
