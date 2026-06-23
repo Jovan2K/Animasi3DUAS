@@ -1,0 +1,43 @@
+newmtl 814cb862-6c7a-4e27-a49a-c1f290c43592
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/nebo_55j6_radar_antenna_tex_d.jpg
+map_Ks textures/nebo_55j6_radar_antenna_tex_n_s.jpg
+map_normal textures/nebo_55j6_radar_antenna_tex_n_n.jpg
+map_ao textures/nebo_55j6_radar_antenna_tex_n_ao.jpg
+
+newmtl b01211f5-a6b9-42c0-bd33-f7ac1b3fe97f
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_command_post_5n63s_wheel_tex_d.jpg
+map_Ks textures/s300ps_command_post_5n63s_wheel_tex_n_s.jpg
+map_normal textures/s300ps_command_post_5n63s_wheel_tex_n_n.jpg
+map_ao textures/s300ps_command_post_5n63s_wheel_tex_n_ao.jpg
+map_d textures/s300ps_command_post_5n63s_wheel_tex_d_a.png
+
+newmtl 53ff4755-3edd-4ae5-8371-bed11a731f82
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/nebo_55j6_radar_tex_d.jpg
+map_Ks textures/nebo_55j6_radar_tex_n_s.jpg
+map_normal textures/nebo_55j6_radar_tex_n_n.jpg
+map_ao textures/nebo_55j6_radar_tex_n_ao.jpg
+map_d textures/nebo_55j6_radar_tex_d_a.png
+
+newmtl 787d253a-fd6c-44ec-a940-42cdd0399a08
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/nebo_55j6_radar_antenna_tex_d.jpg
+map_Ks textures/nebo_55j6_radar_antenna_tex_n_s.jpg
+map_normal textures/nebo_55j6_radar_antenna_tex_n_n.jpg
+map_ao textures/nebo_55j6_radar_antenna_tex_n_ao.jpg
+map_d textures/nebo_55j6_radar_antenna_tex_d_a.png
+
