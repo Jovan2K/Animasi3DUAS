@@ -1,0 +1,179 @@
+newmtl fb8f5c8b-49c3-46e5-88ff-5b8a12b06b66
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8tb_c.jpg
+map_Ks textures/mi_8tb_n_s.jpg
+map_normal textures/mi_8tb_n_n.jpg
+map_ao textures/mi_8tb_n_ao.jpg
+
+newmtl 5b8cfa71-e116-497d-8fb0-d60b6e23b0c1
+Kd 0.000 0.000 0.000
+Ks 1.000 1.000 1.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.17
+
+newmtl 795045a0-5bce-465e-825a-79dfc3890860
+Kd 0.000 0.000 0.000
+Ks 0.000 0.000 0.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.5
+
+newmtl d0b8ada2-122b-48ea-8d1b-ca8f80b712a5
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8tb_c.jpg
+map_Ks textures/mi_8tb_n_s.jpg
+map_normal textures/mi_8tb_n_n.jpg
+map_ao textures/mi_8tb_n_ao.jpg
+
+newmtl 31ed0aec-30a2-496a-bd9b-2138a5622900
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8_interior_c.jpg
+map_Ks textures/mi_8_interior_n_s.jpg
+map_normal textures/mi_8_interior_n_n.jpg
+map_ao textures/mi_8_interior_n_ao.jpg
+
+newmtl 97c283be-1622-438c-b2a5-afeb0b360361
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/a_12_7_c.jpg
+map_Ks textures/a_12_7_n_s.jpg
+map_normal textures/a_12_7_n_n.jpg
+map_ao textures/a_12_7_n_ao.jpg
+
+newmtl ef185531-4447-4936-8012-63275b80f93c
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8_dashboard.jpg
+map_Ks textures/mi_8_dashboard_n_s.jpg
+map_normal textures/mi_8_dashboard_n_n.jpg
+map_ao textures/mi_8_dashboard_n_ao.jpg
+
+newmtl e7e7f8de-a8a1-47df-9825-eccd2304bf03
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/su_bd3_57krv_c.jpg
+map_Ks textures/su_bd3_57krv_n_s.jpg
+map_normal textures/su_bd3_57krv_n_n.jpg
+map_ao textures/su_bd3_57krv_n_ao.jpg
+
+newmtl 69ae9648-356b-4913-835f-e9b9373d7d31
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/dz_57_c.jpg
+map_Ks textures/dz_57_n_s.jpg
+map_normal textures/dz_57_n_n.jpg
+map_ao textures/dz_57_n_ao.jpg
+
+newmtl 0cb9f98f-d972-40b2-be79-3cc227c955e4
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8tb_c.jpg
+map_Ks textures/mi_8tb_n_s.jpg
+map_normal textures/mi_8tb_n_n.jpg
+map_ao textures/mi_8tb_n_ao.jpg
+
+newmtl 827a5267-3892-409f-9602-78b3754fbc97
+Kd 0.000 0.000 0.000
+Ks 1.000 1.000 1.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.17
+
+newmtl 24a04936-9b54-45ef-97bd-cc750140449b
+Kd 0.000 0.000 0.000
+Ks 1.000 1.000 1.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 1
+
+newmtl 3ed81c23-b569-4ea8-b001-9933272b4408
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8tb_c.jpg
+map_Ks textures/mi_8tb_n_s.jpg
+map_normal textures/mi_8tb_n_n.jpg
+map_ao textures/mi_8tb_n_ao.jpg
+
+newmtl d9241846-2d7d-4e74-9b73-139c80e88ba8
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8_inside_c.jpg
+map_Ks textures/mi_8_inside_n_s.jpg
+map_normal textures/mi_8_inside_n_n.jpg
+map_ao textures/mi_8_inside_n_ao.jpg
+
+newmtl 467fbb37-5b5f-40a2-a2bb-2f04581db50a
+Kd 1.000 1.000 1.000
+Ks 0.043 0.043 0.043
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mesh1_a.jpg
+map_Ks textures/mesh1_n_s.jpg
+map_normal textures/mesh1_n_n.jpg
+map_ao textures/mesh1_n_ao.jpg
+map_d textures/mesh1_a_a.png
+
+newmtl 07f3663b-a437-4a89-872a-4df6a7bc892c
+Kd 0.000 0.000 0.000
+Ks 0.000 0.000 0.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.9
+
+newmtl c2c82a3d-6939-4a29-bd0f-05cbb78fb839
+Kd 0.000 0.000 0.000
+Ks 0.000 0.000 0.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.5
+
+newmtl b677cce2-b3e2-4e64-9da2-9ca9d3e10624
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+d 1
+map_Kd textures/barrage_balloon_rope.jpg
+map_d textures/barrage_balloon_rope_a.png
+
+newmtl 56f410f1-b6e9-4f06-9f98-2bd810b7d156
+Kd 0.000 0.000 0.000
+Ks 0.000 0.000 0.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.9
+
+newmtl 70b7494a-d244-4ce1-9cca-d3c5ea4dfad1
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/mi_8_pylon_9p111_c.jpg
+map_Ks textures/mi_8_pylon_9p111_n_s.jpg
+map_normal textures/mi_8_pylon_9p111_n_n.jpg
+map_ao textures/mi_8_pylon_9p111_n_ao.jpg
+
