@@ -1,0 +1,91 @@
+newmtl 10c43f44-6137-40b2-bbe4-61ccce63182d
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_launcher_5p85se_launcher_tex_d.jpg
+map_Ks textures/s300ps_launcher_5p85se_launcher_tex_n_s.jpg
+map_normal textures/s300ps_launcher_5p85se_launcher_tex_n_n.jpg
+map_ao textures/s300ps_launcher_5p85se_launcher_tex_n_ao.jpg
+
+newmtl 77c445b7-e45c-4c80-a67a-61b54efdbaac
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_launcher_5p85se_body_tex_d.jpg
+map_Ks textures/s300ps_launcher_5p85se_body_tex_n_s.jpg
+map_normal textures/s300ps_launcher_5p85se_body_tex_n_n.jpg
+map_ao textures/s300ps_launcher_5p85se_body_tex_n_ao.jpg
+
+newmtl f9d7067a-f270-4598-8204-6edcea1035cd
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_launcher_5p85se_body_tex_d.jpg
+map_Ks textures/s300ps_launcher_5p85se_body_tex_n_s.jpg
+map_normal textures/s300ps_launcher_5p85se_body_tex_n_n.jpg
+map_ao textures/s300ps_launcher_5p85se_body_tex_n_ao.jpg
+map_d textures/s300ps_launcher_5p85se_body_tex_d_a.png
+
+newmtl d98c6389-db42-497e-a7d0-9048852d7495
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_launcher_5p85se_launcher_tex_d.jpg
+map_Ks textures/s300ps_launcher_5p85se_launcher_tex_n_s.jpg
+map_normal textures/s300ps_launcher_5p85se_launcher_tex_n_n.jpg
+map_ao textures/s300ps_launcher_5p85se_launcher_tex_n_ao.jpg
+map_d textures/s300ps_launcher_5p85se_launcher_tex_d_a.png
+
+newmtl 14dafc92-97b3-413d-9fb5-a27a2feac524
+Kd 0.000 0.000 0.000
+Ks 1.000 1.000 1.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.1
+
+newmtl 34ffdcb8-d718-4b2e-91da-c6af5974acb4
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/rszo_smerch_wheels_tex_d.jpg
+map_Ks textures/rszo_smerch_wheels_tex_n_s.jpg
+map_normal textures/rszo_smerch_wheels_tex_n_n.jpg
+map_ao textures/rszo_smerch_wheels_tex_n_ao.jpg
+
+newmtl 95df6d0a-4748-42d8-be2f-840dc77ea398
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/rszo_smerch_wheels_tex_d.jpg
+map_Ks textures/rszo_smerch_wheels_tex_n_s.jpg
+map_normal textures/rszo_smerch_wheels_tex_n_n.jpg
+map_ao textures/rszo_smerch_wheels_tex_n_ao.jpg
+map_d textures/rszo_smerch_wheels_tex_d_a.png
+
+newmtl 06071080-2e07-4828-8926-c4ed9fc7edd4
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_missile_5v55r_tex_d.jpg
+map_Ks textures/s300ps_missile_5v55r_tex_n_s.jpg
+map_normal textures/s300ps_missile_5v55r_tex_n_n.jpg
+map_ao textures/s300ps_missile_5v55r_tex_n_ao.jpg
+
+newmtl 74b34674-e093-4b7c-8e8a-14c098427777
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_missile_5v55r_tex_d.jpg
+map_Ks textures/s300ps_missile_5v55r_tex_n_s.jpg
+map_normal textures/s300ps_missile_5v55r_tex_n_n.jpg
+map_ao textures/s300ps_missile_5v55r_tex_n_ao.jpg
+map_d textures/s300ps_missile_5v55r_tex_d_a.png
+

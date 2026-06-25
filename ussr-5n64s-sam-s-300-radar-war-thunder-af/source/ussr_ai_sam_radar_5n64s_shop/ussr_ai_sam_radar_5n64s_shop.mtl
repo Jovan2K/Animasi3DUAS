@@ -1,0 +1,70 @@
+newmtl 3c93ef28-0b3b-4c66-85a6-663229f870da
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_rlo_tex_d.jpg
+map_Ks textures/s300ps_5n64s_rlo_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_rlo_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_rlo_tex_n_ao.jpg
+
+newmtl f5233281-f883-48ab-bfb6-5caa5d616aac
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_tex_d.jpg
+map_Ks textures/s300ps_5n64s_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_tex_n_ao.jpg
+
+newmtl 8f8f3890-e990-40bd-bd8a-7aac86b7bac3
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_tex_d.jpg
+map_Ks textures/s300ps_5n64s_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_tex_n_ao.jpg
+map_d textures/s300ps_5n64s_tex_d_a.png
+
+newmtl 9e3ccba9-4cd4-4425-9895-4defdb1a0f3d
+Kd 0.000 0.000 0.000
+Ks 1.000 1.000 1.000
+Ns 255
+Ke 0.000 0.000 0.000
+d 0.1
+
+newmtl 2bc98df0-dfb4-4ee9-b788-75b5e2803246
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_wheel_tex_d.jpg
+map_Ks textures/s300ps_5n64s_wheel_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_wheel_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_wheel_tex_n_ao.jpg
+
+newmtl 97296181-7a88-478a-8caa-d2f1b0fcffb2
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_wheel_tex_d.jpg
+map_Ks textures/s300ps_5n64s_wheel_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_wheel_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_wheel_tex_n_ao.jpg
+map_d textures/s300ps_5n64s_wheel_tex_d_a.png
+
+newmtl 28effa1f-007c-40eb-a34b-00bfa0643d01
+Kd 1.000 1.000 1.000
+Ks 0.502 0.502 0.502
+Ns 30
+Ke 0.000 0.000 0.000
+map_Kd textures/s300ps_5n64s_rlo_tex_d.jpg
+map_Ks textures/s300ps_5n64s_rlo_tex_n_s.jpg
+map_normal textures/s300ps_5n64s_rlo_tex_n_n.jpg
+map_ao textures/s300ps_5n64s_rlo_tex_n_ao.jpg
+map_d textures/s300ps_5n64s_rlo_tex_d_a.png
+
